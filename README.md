@@ -1,12 +1,6 @@
 ### Olá pessoal 👋
 <p> Eu sou o Brunin </p>
 
-<div>
-  <img src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" height="180" width="204"; />
-</div>
-
-###
-
 Tenho 21 anos de idade, um skate surrado, e muitas listas de exercicio para resolver.
 
 <div>
