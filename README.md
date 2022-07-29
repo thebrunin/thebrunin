@@ -30,6 +30,21 @@ Tecnologias:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 </div>
 
+###
+
+<div>
+Onde me encontrar:
+
+###
+<a href="https://www.instagram.com/_bru.nin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-ribeiro-0a084a19a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  
+</div>
+
 <!--
 **thebrunin/thebrunin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
