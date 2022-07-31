@@ -1,18 +1,14 @@
-### Olá pessoal 👋
-<p> Eu sou o Brunin </p>
+### Hello, yes you there, welcome to my profile! 👋
+<p> I am Brunin </p>
 
-Tenho 21 anos de idade, um skate surrado, e muitas listas de exercicio para resolver.
+I have 21 years old, a battered skateboard, and a lot to learn...
 
 <div>
-  <img src="https://c.tenor.com/M0Ba20YDHIwAAAAC/caco-kermit.gif" height="180" width="204"; />
-  <img src="https://i.pinimg.com/originals/28/56/25/285625fd06fc0ed84f0e0b0f579efd50.jpg" height="180" width="204"; />
-</div>
+  <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" width="204"; />
 
-###
+##
 
-Seja bem vindo ao meu perfil!
-<div>
-Tecnologias:
+🌱 I’m currently learning ...
 </div>
 
 ###
@@ -26,10 +22,10 @@ Tecnologias:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 </div>
 
-###
+##
 
 <div>
-Onde me encontrar:
+Contact by:
 
 ###
 <a href="https://www.instagram.com/_bru.nin/" target="_blank">
