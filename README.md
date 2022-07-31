@@ -2,18 +2,21 @@
 <p> I am Brunin </p>
 
 I have 21 years old, a battered skateboard, and a lot to learn...
-
 <div>
-  <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" width="204"; />
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="258" width="280"; />
+</div>
+<div>
+  
 
 ##
 
-🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 </div>
 
 ###
 
 <div>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -22,10 +25,11 @@ I have 21 years old, a battered skateboard, and a lot to learn...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 </div>
 
+
 ##
 
 <div>
-Contact by:
+📫 Contact by:
 
 ###
 <a href="https://www.instagram.com/_bru.nin/" target="_blank">
