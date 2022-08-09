@@ -23,6 +23,7 @@ I have 21 years old, a battered skateboard, and a lot to learn...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://user-images.githubusercontent.com/107891598/183655600-445ec7f9-40ad-4dbc-8d8a-595889d6ae2f.png"  height="55" width="55" alt="mysql logo"  />
 </div>
 
 
