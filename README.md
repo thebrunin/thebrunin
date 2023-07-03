@@ -1,7 +1,7 @@
 ### Hello, yes you there, welcome to my profile! 👋
 <p> I am Brunin </p>
 
-I have 21 years old, a battered skateboard, and a lot to learn...
+I have 22 years old, a battered skateboard, and a lot to learn...
 <div>
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="258" width="280"; />
 </div>
