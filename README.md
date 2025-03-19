@@ -1,14 +1,15 @@
 ### Hello, yes you there, welcome to my profile! 👋
 <p> I am Brunin </p>
 
-I have 22 years old, a battered skateboard, I work as a full stack developer, with a greater affinity for the backend...
+I'm 24 years old, a battered skateboard, I work as a full stack developer, with a greater affinity for the backend...
 <div>
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="258" width="280"; />
 </div>
-<div>
-  
 
 ##
+
+<div>
+
 
 ### 🔭 I’m working with ...
 </div>
@@ -25,7 +26,6 @@ I have 22 years old, a battered skateboard, I work as a full stack developer, wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 
-
 ##
 
 <div>
@@ -40,18 +40,3 @@ I have 22 years old, a battered skateboard, I work as a full stack developer, wi
   </a>
   
 </div>
-
-<!--
-**thebrunin/thebrunin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
